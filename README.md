@@ -4,3 +4,9 @@
 ### Members:
 - Cristian-Mihai Rosu
 - Viorica-Camelia Lupancu
+
+### Setup:
+
+```
+npm install express express-graphql graphql --save
+```
